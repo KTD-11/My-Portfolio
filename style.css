@@ -32,6 +32,7 @@ header {
   background-attachment: fixed;
   width: 100vw;
   height: 100vh;
+  min-height: fit-content;
   background-position: 50% 50%;
   -o-border-image: 1 var(--o-gredient);
      border-image: 1 fill var(--o-gredient);
