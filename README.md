@@ -1,4 +1,4 @@
-# <center>My-Portfolio</center>
+<h1 align="center">Hi 👋, I'm KTD</h1>
 
 <h2>Hello, everyone.</h2>
 <p>I go by KTD online, and I am a beginner programmer</p>
